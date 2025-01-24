@@ -13,7 +13,7 @@
 
 ## 📚 ML Projects
 
-### **Beginner Projects**
+### Beginner Projects
 
 | Project Name | Description | Key Skills/Tools |
 |--------------|-------------|------------------|
@@ -22,7 +22,7 @@
 | **Spam Email Detection** | Classify emails as spam or not spam using textual data. | Naive Bayes, NLTK, Scikit-learn |
 | **Titanic Survival Prediction** | Predict survival chances of Titanic passengers based on demographics. | Data Cleaning, Decision Trees, Pandas |
 
-### **Intermediate Projects**
+### Intermediate Projects
 
 | Project Name | Description | Key Skills/Tools |
 |--------------|-------------|------------------|
@@ -31,7 +31,7 @@
 | **Customer Segmentation** | Group customers based on purchasing behavior. | Clustering, k-Means, Matplotlib |
 | **Face Detection** | Detect faces in images using OpenCV and Haar cascades. | OpenCV, Haar cascades, Python |
 
-### **Advanced Projects**
+### Advanced Projects
 
 | Project Name | Description | Key Skills/Tools |
 |--------------|-------------|------------------|
@@ -40,7 +40,7 @@
 | **Chatbot Development** | Build a chatbot for customer support or FAQs. | NLP, Rasa, GPT APIs |
 | **Image Segmentation** | Segment objects in images (e.g., medical imaging, autonomous vehicles). | CNNs, U-Net, TensorFlow |
 
-### **Real-World Applications**
+### Real-World Applications
 
 | Project Name | Description | Key Skills/Tools |
 |--------------|-------------|------------------|
@@ -49,7 +49,7 @@
 | **Personalized Recommendations** | Build a recommendation system for movies, products, or music. | Collaborative Filtering, Matrix Factorization |
 | **Autonomous Driving Simulation** | Simulate self-driving car tasks like lane detection and obstacle avoidance. | Computer Vision, OpenCV, PyTorch |
 
-### **Deployment-Oriented Projects**
+### Deployment-Oriented Projects
 
 | Project Name | Description | Key Skills/Tools |
 |--------------|-------------|------------------|
@@ -57,7 +57,7 @@
 | **End-to-End ML Pipeline** | Build a pipeline from data ingestion to deployment. | MLflow, Kubernetes, AWS/Azure |
 | **Web App with ML Integration** | Create a web app that integrates an ML model (e.g., image classification app). | Flask, Streamlit, HTML/CSS |
 
-### **Specialized Domains**
+### Specialized Domains
 
 | Domain | Example Projects |
 |--------|------------------|
