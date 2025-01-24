@@ -9,7 +9,7 @@
 | **5. Build a Portfolio and Keep Learning** | Create projects to showcase skills and stay updated with advancements. | - Portfolio Development<br>- Continuous Learning | **Include projects from all stages of learning:**<br>- House price prediction, sentiment analysis, image classification, GAN implementations<br>- Participate in Kaggle competitions for hands-on experience |
 | **6. Understand Key Concepts of Deep Learning** | Dive into deep learning and neural networks. | - Neural Networks<br>- Convolutional Neural Networks (CNN)<br>- Recurrent Neural Networks (RNN) | **Resources**:<br>- [Deep Learning Specialization (Coursera)](https://www.coursera.org/specializations/deep-learning)<br>- [YouTube: freeCodeCamp.org](https://www.youtube.com/c/freecodecamp)<br>- TensorFlow Tutorials ([YouTube: Codebasics](https://www.youtube.com/results?search_query=tensorflow+tutorial+codebasics)) |
 
----
+----------------------------------------------------
 
 ## 📚 ML Projects
 
